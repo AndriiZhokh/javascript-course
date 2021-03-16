@@ -1,2 +1,3 @@
 # javascript-course
-javascript code challenges
+# Notes
+Section for future notes...
